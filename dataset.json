@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Local dining market data for Pasadena in the Lone Star State with a population of over 151k. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Pasadena, Texas, US",
+  "export_job_id": "197c6f71-6b5c-44a5-874e-dd81a863bb9d",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 561204,
+  "location_name": "Pasadena",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-pasadena-texas-us-sample-561204",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/561204/beamstation_561204_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_pct": 9.91,
+  "sample_records": 43,
+  "sample_sha256": "04dd0debd7b17be2cb4076e664662631bc18b5c77381ba6561f3f1eae25cf617",
+  "sample_size_bytes": 172036,
+  "total_records": 434,
+  "updated_at": "2026-04-09T12:42:55.170664+00:00"
+}
