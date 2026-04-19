@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 434 records |
 | Free sample size | 43 records (9.91%) |
-| Last export | 2026-04-09T12:42:55.170664+00:00 |
+| Last export | 2026-04-16T12:44:05.761767+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-pasadena-texas-us-sample-561204/releases/download/sample-latest/beamstation_561204_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
