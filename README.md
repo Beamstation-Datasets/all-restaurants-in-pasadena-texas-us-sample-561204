@@ -1,6 +1,6 @@
 # All Restaurants in Pasadena, Texas, US
 
-> Free BeamStation sample export with 43 rows and masked direct-contact fields.
+> Free BeamStation sample export with 31 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `561204` |
 | Location | Pasadena |
 | Category | Restaurants |
-| Full dataset size | 434 records |
-| Free sample size | 43 records (9.91%) |
-| Last export | 2026-04-16T12:44:05.761767+00:00 |
+| Full dataset size | 317 records |
+| Free sample size | 31 records (9.78%) |
+| Last export | 2026-04-23T11:58:23.438571+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-pasadena-texas-us-sample-561204/releases/download/sample-latest/beamstation_561204_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
