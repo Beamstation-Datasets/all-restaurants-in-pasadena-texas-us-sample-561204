@@ -1,12 +1,12 @@
 {
-  "export_job_id": "fafc0b86-4d9c-4080-b009-0609087976e9",
+  "export_job_id": "fb0c349e-feb8-48ba-b7c3-3545066060c8",
   "id_short": 561204,
-  "published_at": "2026-04-23T19:29:32Z",
+  "published_at": "2026-04-30T19:27:20Z",
   "repo_name": "all-restaurants-in-pasadena-texas-us-sample-561204",
   "sample_asset_name": "beamstation_561204_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/561204/beamstation_561204_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 31,
-  "sample_sha256": "65d21fa3d4746a7ffd2769c0480f271e5a4c1036e35bef62db9cbaf272b98145",
-  "sample_size_bytes": 129913,
-  "total_records": 317
+  "sample_records": 44,
+  "sample_sha256": "93438ea59a6ebad27fb776f4df32d81127e90aa467bf48f86d8a774b59f4ef3a",
+  "sample_size_bytes": 151583,
+  "total_records": 444
 }
